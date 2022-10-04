@@ -24,9 +24,7 @@ https://iptv23121.online/redir.php?acesso=fc93a02beef2417acb57559050863560&usuar
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2rypwlN.jpg" group-title="Esportes", Sport TV
 https://iptv23121.online/redir.php?acesso=8ee6277400d08dbfa0072a54903451cb&usuario=ea4e01c959bddf9da82d2ac23b4181d9
 
-#EXTINF:-1
-tvg-logo="https://i.imgur.com/SBIplcP.jpg"
-gupo-title="Esportes", Rede Bull
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBIplcP.jpg" group-title="Esportes", Rede Bull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJEw7sd.jpg" group-title="canais", TV Cultura
