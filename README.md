@@ -43,13 +43,8 @@ https://iptv23121.online/redir.php?acesso=2b587c7a48d36796d32d26711f7027f5&usuar
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ju5xv4I.jpg" group-title="canais abertos", TV Mais Brasil
 https://iptv23121.online/redir.php?acesso=2fcb83333502bdf7f7861f2b56f3b942&usuario=ea4e01c959bddf9da82d2ac23b4181d9
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cXYiBkE.jpg" group-title="canais abertos", Mix TV
 https://iptv23121.online/redir.php?acesso=9f69b2dc6f1a18df8e0ab46749155eb5&usuario=ea4e01c959bddf9da82d2ac23b4181d9
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mh9qnAl.jpg" group-title="Filmes", TV Tela Viva
 https://iptv23121.online/redir.php?acesso=722377fde1ac277fa3da23fe1d4d524d&usuario=ea4e01c959bddf9da82d2ac23b4181d9
-
-
-
-
