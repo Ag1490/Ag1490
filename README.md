@@ -1,11 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AYiCCh6.jpg" group-title="Notícias", TV Manchete
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AYiCCh6.jpg" group-title="Notícias", Rede Manchete
 https://iptv23121.online/redir.php?acesso=9aea1f9ed9101b29f09904e8508d85e5&usuario=ea4e01c959bddf9da82d2ac23b4181d9
 
-#EXTINF:-1
-tvg-logo="https://i.imgur.com/mtHYlia.jpg"
-gupo-title="abertos", TV Globo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mtHYlia.jpg" group-title="canais abertos", TV Globo
 http://191.37.250.169:8801/live/NSC/720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1XOCMFC.jpg" group-title="canais", SBT
