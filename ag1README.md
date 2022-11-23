@@ -15,7 +15,7 @@ http://lmtv.me/live/1666890340hig/443900/90042.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nf4YJbq.jpg" group-title="globo", GLOBO MINAS
 http://lmtv.me/live/1666890340hig/443900/90035.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xaw3PNJ.jpg" group-title="record", RECORD SP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nf4YJbq.jpg" group-title="record", RECORD SP
 http://lmtv.me/live/1666890340hig/443900/90267.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ck1dJq8.jpg" group-title="news", RECORD NEWS
