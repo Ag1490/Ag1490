@@ -1,11 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Premiere.br" tvg-name="PREMIERE"
-tvg-logo="https://i.imgur.com/02mnxAp.jpg" group-title="CANAIS | ESPORTES",PREMIERE
-https://lmtv.me/live/1666890340hig/443900/90237.m3u8
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD SP" tvg-logo="https://i.imgur.com/Xaw3PNJ.jpg" group-title="CANAIS | RECORD",RECORD SP
-http://lmtv.me/live/1666890340hig/443900/90267.m3u8
-#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD NEWS" tvg-logo="https://i.imgur.com/Xaw3PNJ.jpg" group-title="CANAIS | RECORD",RECORD NEWS
-http://lmtv.me/live/1666890340hig/443900/90260.m3u8
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO SP" tvg-logo="https://i.imgur.com/nf4YJbq.jpg" group-title="CANAIS | GLOBO",GLOBO SP
 http://lmtv.me/live/1666890340hig/443900/90061.m3u8
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO RJ" tvg-logo="https://i.imgur.com/nf4YJbq.jpg" group-title="CANAIS | GLOBO",GLOBO RJ
@@ -16,6 +9,10 @@ http://191.37.250.169:8801/live/NSC/720p.m3u8
 http://lmtv.me/live/1666890340hig/443900/90042.m3u8
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO MINAS" tvg-logo="https://i.imgur.com/nf4YJbq.jpg" group-title="CANAIS | GLOBO",GLOBO MINAS
 http://lmtv.me/live/1666890340hig/443900/90035.m3u8
+#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD SP" tvg-logo="https://i.imgur.com/Xaw3PNJ.jpg" group-title="CANAIS | RECORD",RECORD SP
+http://lmtv.me/live/1666890340hig/443900/90267.m3u8
+#EXTINF:-1 tvg-id="Record.br" tvg-name="RECORD NEWS" tvg-logo="https://i.imgur.com/Xaw3PNJ.jpg" group-title="CANAIS | RECORD",RECORD NEWS
+http://lmtv.me/live/1666890340hig/443900/90260.m3u8
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://i.imgur.com/1XOCMFC.jpg" group-title="CANAIS | SBT",SBT
 https://iptv23121.online/redir.php?acesso=fe8d1505e714a42d13c6bcba2c653d65&usuario=ea4e01c959bddf9da82d2ac23b4181d9
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP" tvg-logo="https://i.imgur.com/5JipH12.jpg" group-title="CANAIS | SBT",SBT SP
@@ -44,6 +41,8 @@ http://lmtv.me/live/1666890340hig/443900/89804.m3u8
 https://lmtv.me/live/1666890340hig/443900/89926.m3u8
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.imgur.com/ph7WKla.jpg" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL
 https://lmtv.me/live/1666890340hig/443900/89914.m3u8
+#EXTINF:-1 tvg-id="Premiere.br" tvg-name="PREMIERE" tvg-logo="https://i.imgur.com/02mnxAp.jpg" group-title="CANAIS | ESPORTES",PREMIERE
+http://lmtv.me/live/1666890340hig/443900/90237.m3u8
 #EXTINF:-1 tvg-id="Esportetv.br" tvg-name="ESPORTE TV" tvg-logo="https://i.imgur.com/CwMuNFe.jpg" group-title="CANAIS | ESPORTE",ESPORTE TV
 http://lmtv.me/live/1666890340hig/443900/90329.m3u8
 #EXTINF:-1 tvg-id="Esportetv.br" tvg-name="ESPORTE TV 2" tvg-logo="https://i.imgur.com/CwMuNFe.jpg" group-title="CANAIS | ESPORTE",ESPORTE TV 2
