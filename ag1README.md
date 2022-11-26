@@ -64,6 +64,8 @@ http://lmtv.me/live/1666890340hig/443900/90007.m3u8
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN" tvg-logo="https://i.imgur.com/bDcT8nC.jpg" group-title="CANAIS | FILMES",AXN
 http://lmtv.me:80/live/gj9er/QuDE1/90317.m3u8
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA" tvg-logo="https://i.imgur.com/MvDD0GV.jpg" group-title="CANAIS | FILMES",VIVA
-https://iptv23121.online/redir.php?acesso=eb75ebab35f39120b23452df0140a857&usuario=ea4e01c959bddf9da82d2ac23b4181d9
+https://novo.bitstreaming.info:1936/8132/8132/chunklist_w781917877.m3u8
 #EXTINF:-1 tvg-id="Desenhosantigos.br" tvg-name="DESENHOS ANTIGOS" tvg-logo="https://i.imgur.com/3yHcPAi.jpg" group-title="CANAIS | FILMES",DESENHOS ANTIGOS
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w2075383718.m3u8
+#EXTINF:-1 tvg-id="Playboy.br" tvg-name="PLAY BOY" tvg-logo="http://storage.newbp.xyz/lives/ADULTO/SEXPRIVE%CC%81.png" group-title="CANAIS | XXX ADULTOS",PLAY BOY
+https://cdn.adultiptv.net/milf.m3u8
