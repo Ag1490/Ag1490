@@ -67,25 +67,31 @@ http://lmtv.me:80/live/gj9er/QuDE1/90317.m3u8
 https://novo.bitstreaming.info:1936/8132/8132/chunklist_w781917877.m3u8
 #EXTINF:-1 tvg-id="Desenhosantigos.br" tvg-name="DESENHOS ANTIGOS" tvg-logo="https://i.imgur.com/3yHcPAi.jpg" group-title="CANAIS | FILMES",DESENHOS ANTIGOS
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w2075383718.m3u8
-#EXTINF:-1 tvg-id="Playboy.br" tvg-name="PLAY BOY" tvg-logo="http://storage.newbp.xyz/lives/ADULTO/SEXPRIVE%CC%81.png" group-title="CANAIS | XXX ADULTOS",PLAY BOY
+#EXTINF:-1 tvg-id="Adulto.br" tvg-name="ADULTO" tvg-logo="http://storage.newbp.xyz/lives/ADULTO/SEXPRIVE%CC%81.png" group-title="CANAIS | ADULTOS",PLAY BOY
 https://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 tvg-id="Adulto.br" tvg-name="XVIDEOS18" tvg-logo="https://i.imgur.com/9kvB0gE.jpg" group-title="VIDEOS | XVIDEOS",XVIDEOS18
-https://vcdn.anysex.com/key=aLoJ3LIWiqWeGz+uIfbU0A,end=1669575888,limit=2/data=L7tGwf/speed=112K/396000/396488/396488_240.mp4
-#EXTINF:-1 tvg-id="Adulto.br" tvg-name="XVIDEOS 18" tvg-logo="https://i.imgur.com/9kvB0gE.jpg" group-title="VIDEOS | XVIDEOS", XVIDEOS 18
-https://vcdn.anysex.com/key=-CfGvdl7ahqrJnfZT0IWcw,end=1669576204,limit=2/data=xa17VU/speed=61K/398000/398003/398003_240.mp4
-#EXTINF:-1 tvg-id="Adulto.br" tvg-name="XVIDEOS 18" tvg-logo="https://i.imgur.com/9kvB0gE.jpg" group-title="VIDEOS | XVIDEOS", XVIDEOS 18
-https://banners-hw.trafficfactory.biz/banners/bd/b2/68/c97ba8c1df240ff4cb0b1da0b4f34f0b.mp4
-#EXTINF:-1 tvg-id="Adulto.br" tvg-name="XVIDEOS 18" tvg-logo="https://i.imgur.com/9kvB0gE.jpg" group-title="VIDEOS | XVIDEOS", XVIDEOS 18
-https://ee-h.phncdn.com/hls/videos/202105/05/387596871/,480P_2000K,_387596871.mp4.urlset/index-v1-a1.m3u8?validfrom=1669571424&validto=1669578624&ipa=45.165.98.247&hdl=-1&hash=Jn4ytGmrsAdIePiESfnZUa9I9h4%3D&
+#EXTINF:-1 tvg-id="Adulto.br" tvg-name="ADULTO" tvg-logo="https://i.imgur.com/9kvB0gE.jpg" group-title="CANAIS | ADULTO", VÍDEOS
+https://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-id="Adulto.br" tvg-name="ADULTO" tvg-logo="https://i.imgur.com/9kvB0gE.jpg" group-title="VIDEOS | XVIDEOS", XVIDEOS 18
+http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4/
+#EXTINF:-1 tvg-id="Adulto.br" tvg-name="ADULTO" tvg-logo="https://i.imgur.com/9kvB0gE.jpg" group-title="VIDEOS | XVIDEOS", XVIDEOS 18
+http://finevids.xxx/get_file/1/3d6feb808a0edfcedea916dfbed0f428/82000/82103/82103.mp4/
+#EXTINF:-1 tvg-id="Adulto.br" tvg-name="ADULTO" tvg-logo="https://i.imgur.com/9kvB0gE.jpg" group-title="VIDEOS | XVIDEOS", XVIDEOS 18
+http://finevids.xxx/get_file/1/197767f6be9c3d33665cde6f29d4f8fb/81000/81697/81697.mp4/
+#EXTINF:-1 tvg-id="Adulto.br" tvg-name="ADULTO" tvg-logo="https://i.imgur.com/9kvB0gE.jpg" group-title="VIDEOS | XVIDEOS",XVIDEOS 18
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
+#EXTINF:-1 tvg-id="Adulto.br" tvg-name="ADULTO" tvg-logo="https://i.imgur.com/9kvB0gE.jpg" group-title="VIDEOS | XVIDEOS",XVIDEOS18
+https://videos.filmesporno.com.br/video_local/2022/50052241.mp4
+#EXTINF:-1 tvg-id="Adulto.br" tvg-name="ADULTO" tvg-logo="https://i.imgur.com/9kvB0gE.jpg" group-title="VIDEOS | XVIDEOS", XVIDEOS 18
+https://videos.filmesporno.com.br/video_local/2022/56293527.mp4
+#EXTINF:-1 tvg-id="Adulto.br" tvg-name="ADULTO" tvg-logo="https://i.imgur.com/9kvB0gE.jpg" group-title="VIDEOS | XVIDEOS", XVIDEOS 18
+https://videos.filmesporno.com.br/video_local/2022/50907397.mp4
+#EXTINF:-1 tvg-id="Adulto.br" tvg-name="ADULTO" tvg-logo="https://i.imgur.com/9kvB0gE.jpg" group-title="VIDEOS | XVIDEOS", XVIDEOS 18
+https://videos.filmesporno.com.br/video_local/2022/40719613.mp4
 #EXTINF:-1 tvg-id="Adulto.br" tvg-name="XVIDEOS 18" tvg-logo="https://i.imgur.com/9kvB0gE.jpg" group-title="VIDEOS | XVIDEOS",XVIDEOS 18
-https://ee-h.phncdn.com/hls/videos/202107/30/392125191/,221005_1202_480P_2000K,_392125191.mp4.urlset/index-v1-a1.m3u8?validfrom=1669571064&validto=1669578264&ipa=45.165.98.247&hdl=-1&hash=vqgcq0MG3M%2FyfBOmBHJsUdv29vY%3D&
-#EXTINF:-1 tvg-id="Adulto.br" tvg-name="XVIDEOS18" tvg-logo="https://i.imgur.com/9kvB0gE.jpg" group-title="VIDEOS | XVIDEOS",XVIDEOS18
-https://vcdn.anysex.com/key=aLoJ3LIWiqWeGz+uIfbU0A,end=1669575888,limit=2/data=L7tGwf/speed=112K/396000/396488/396488_240.mp4
-#EXTINF:-1 tvg-id="Adulto.br" tvg-name="XVIDEOS 18" tvg-logo="https://i.imgur.com/9kvB0gE.jpg" group-title="VIDEOS | XVIDEOS", XVIDEOS 18
-https://vcdn.anysex.com/key=-CfGvdl7ahqrJnfZT0IWcw,end=1669576204,limit=2/data=xa17VU/speed=61K/398000/398003/398003_240.mp4
-#EXTINF:-1 tvg-id="Adulto.br" tvg-name="XVIDEOS 18" tvg-logo="https://i.imgur.com/9kvB0gE.jpg" group-title="VIDEOS | XVIDEOS", XVIDEOS 18
-https://banners-hw.trafficfactory.biz/banners/bd/b2/68/c97ba8c1df240ff4cb0b1da0b4f34f0b.mp4
-#EXTINF:-1 tvg-id="Adulto.br" tvg-name="XVIDEOS 18" tvg-logo="https://i.imgur.com/9kvB0gE.jpg" group-title="VIDEOS | XVIDEOS", XVIDEOS 18
-https://ee-h.phncdn.com/hls/videos/202105/05/387596871/,480P_2000K,_387596871.mp4.urlset/index-v1-a1.m3u8?validfrom=1669571424&validto=1669578624&ipa=45.165.98.247&hdl=-1&hash=Jn4ytGmrsAdIePiESfnZUa9I9h4%3D&
+https://videos.filmesporno.com.br/video_local/2022/66974771.mp4
 #EXTINF:-1 tvg-id="Adulto.br" tvg-name="XVIDEOS 18" tvg-logo="https://i.imgur.com/9kvB0gE.jpg" group-title="VIDEOS | XVIDEOS",XVIDEOS 18
-https://ee-h.phncdn.com/hls/videos/202107/30/392125191/,221005_1202_480P_2000K,_392125191.mp4.urlset/index-v1-a1.m3u8?validfrom=1669571064&validto=1669578264&ipa=45.165.98.247&hdl=-1&hash=vqgcq0MG3M%2FyfBOmBHJsUdv29vY%3D&
+https://videos.filmesporno.com.br/video_local/2022/58498901.mp4
+#EXTINF:-1 tvg-id="Adulto.br" tvg-name="XVIDEOS 18" tvg-logo="https://i.imgur.com/9kvB0gE.jpg" group-title="VIDEOS | XVIDEOS",XVIDEOS 18
+https://videos.filmesporno.com.br/video_local/2022/40719613.mp4
+#EXTINF:-1 tvg-id="Adulto.br" tvg-name="XVIDEOS 18" tvg-logo="https://i.imgur.com/9kvB0gE.jpg" group-title="VIDEOS | XVIDEOS",XVIDEOS 18
+https://videos.filmesporno.com.br/video_local/2022/53601021.mp4
