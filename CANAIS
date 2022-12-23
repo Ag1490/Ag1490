@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO" tvg-logo="https://i.imgur.com/nf4YJbq.jpg" group-title="CANAIS | GLOBO",GLOBO
+http://haderekanim.b-cdn.net/live/globo/chunks.m3u8
+#EXTINF:-1 tvg-id="Disney.br" tvg-name="DISNEY" tvg-logo="https://i.imgur.com/y3ynsFT.jpg" group-title="CANAIS | DISNEY",DISNEY
+http://haderekanim.b-cdn.net/live/disneychannel/chunks.m3u8
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE" tvg-logo="https://i.imgur.com/zEb7vYa.jpg" group-title="CANAIS | COMBATE",COMBATE
+http://haderekanim.b-cdn.net/live/combate/chunks.m3u8
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE" tvg-logo="https://i.imgur.com/nf4YJbq.jpg" group-title="CANAIS | SPACE", SPACE
+http://haderekanim.b-cdn.net/live/space/chunks.m3u8
+#EXTINF:-1 tvg-id="Telecine.br" tvg-name="TELECINE" tvg-logo="https://i.imgur.com/xyqOMrR.jpg" group-title="CANAIS | TELE CINE", TELE CINE
+http://haderekanim.b-cdn.net/live/telecinepremium/chunks.m3u8
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGA PIX" tvg-logo="https://i.imgur.com/hA3xUsC.jpg" group-title="CANAIS | CINE",MEGA PIX
+http://haderekanim.b-cdn.net/live/megapix/chunks.m3u8
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT" tvg-logo="https://i.imgur.com/Rc9DdCV.jpg" group-title="CANAIS | TNT",TNT
+http://haderekanim.b-cdn.net/live/tnt/chunks.m3u8
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE" tvg-logo="https://i.imgur.com/NYMfC5O.jpg" group-title="CANAIS | SPACE",SPACE
+http://haderekanim.b-cdn.net/live/space/chunks.m3u8
